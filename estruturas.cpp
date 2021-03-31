@@ -3,6 +3,7 @@
 /* forma geral do conjunto de elementos
 dos programas 
 */
+/* typedef - permite compor novos tipos de dados */
 typedef float num_real;
 typedef int medida;
 typedef medida altura;
